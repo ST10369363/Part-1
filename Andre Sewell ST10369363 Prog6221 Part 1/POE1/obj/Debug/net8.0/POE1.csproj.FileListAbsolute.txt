@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\bin\Debug\net8.0\POE1.exe
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\bin\Debug\net8.0\POE1.deps.json
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\bin\Debug\net8.0\POE1.runtimeconfig.json
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\bin\Debug\net8.0\POE1.dll
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\bin\Debug\net8.0\POE1.pdb
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.AssemblyInfo.cs
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.dll
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\refint\POE1.dll
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.pdb
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\POE1.genruntimeconfig.cache
+C:\Users\RC_Student_lab\Desktop\Andre Sewell ST10369363 Prog6221 Part 1\POE1\obj\Debug\net8.0\ref\POE1.dll
